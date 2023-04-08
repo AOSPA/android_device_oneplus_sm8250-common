@@ -835,6 +835,9 @@ vendor/lib64/libpwirishalwrapper.so|30684de995f6e17b045b9de9cb890b62896f739f
 -odm/etc/vintf/manifest/vendor.pixelworks.hardware.display.iris-service.xml|a2ce7558c9b75f223c32120cf4d9f3a3720e12e0
 -odm/etc/vintf/manifest/vendor.pixelworks.hardware.feature.irisfeature-service.xml|440aae7ed81fbbc641236e7d901c1cec28a8cb4e
 
+# Keymaster
+vendor/lib64/libspcom.so
+
 # MDM
 vendor/bin/init.mdm.sh
 vendor/bin/ks
